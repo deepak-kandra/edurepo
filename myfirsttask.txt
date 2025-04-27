@@ -1,2 +1,2 @@
-I am learning Git and GitHub, it is the part of  DevOps.
-I am learning in Edureka Labs.
+<H1>I am learning Git and GitHub, it is the part of  DevOps.</H1>
+<H2I am learning in Edureka Labs.</H2>
